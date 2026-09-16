@@ -14,7 +14,7 @@ A Python-based OSINT query builder for generating targeted search queries for pe
 * Domain search queries
 * Multiple search categories
 
-## Technologies
+## Technologies Used
 
 * Python
 * Git
@@ -48,7 +48,7 @@ Choose the type of search query you want from the main menu. Enter the requested
 * Option to save output of queries into a file
 * Better output formatting
 
-**If you have suggestions for additional features or improvements, feel free to open an issue or reach out with your idea. I may consider it for a future update.**
+**If you have any suggestions to improve this project or to have a feature added, please let me know! I'm open to them and will consider them.**
 
 ## Disclaimer
 
